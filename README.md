@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="goband.png" alt="GoBand - The Reverse Engineered GoLand" width="800">
+</p>
+
 # WinZip Electron IDE
 
 Reverse-engineered GoLand rebuilt as a native Windows IDE in C# + C++.
