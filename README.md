@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="goband.png" alt="GoBand - The Reverse Engineered GoLand" width="800">
+  <img src="goband.png" alt="GoBand - The Reverse Engineered GoLand" width="500">
 </p>
 
 # WinZip Electron IDE
