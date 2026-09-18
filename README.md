@@ -11,21 +11,7 @@
   <img src="https://img.shields.io/badge/build-early-FFD60A?style=for-the-badge&labelColor=1a1a1a" alt="Build">
 </p>
 
-```
-╔════════════════════════════════════════════════════════════╗
-║                                                          ║
-║   ██████╗  ██████╗ ██████╗  █████╗ ███╗   ██╗██████╗      ║
-║  ██╔════╝ ██╔═══██╗██╔══██╗██╔══██╗████╗  ██║██╔══██╗     ║
-║  ██║  ███╗██║   ██║██████╔╝███████║██╔██╗ ██║██║  ██║     ║
-║  ██║   ██║██║   ██║██╔══██╗██╔══██║██║╚██╗██║██║  ██║     ║
-║  ╚██████╔╝╚██████╔╝██████╔╝██║  ██║██║ ╚████║██████╔╝     ║
-║   ╚═════╝  ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝      ║
-║                                                          ║
-║   THE REVERSE ENGINEERED GOLAND  //  C# + C++  //  NO JVM ║
-║   ── SAME POWER. MORE FREEDOM. ──                        ║
-║                                                          ║
-╚════════════════════════════════════════════════════════════╝
-```
+
 
 <p align="center">
   <b>GoLand reverse-engineered and rebuilt as a native Windows IDE.</b><br>
@@ -162,7 +148,21 @@ See `specification/architecture.md` for the intended panel and workspace model.
 Clean-room implementation. Built by observing public behavior of the GoLand installer and IDE, then writing new code to match the observed contracts.
 
 No JetBrains code, binaries, branding assets, or proprietary implementation is redistributed here.
-
+```
+╔════════════════════════════════════════════════════════════╗
+║                                                          ║
+║   ██████╗  ██████╗ ██████╗  █████╗ ███╗   ██╗██████╗      ║
+║  ██╔════╝ ██╔═══██╗██╔══██╗██╔══██╗████╗  ██║██╔══██╗     ║
+║  ██║  ███╗██║   ██║██████╔╝███████║██╔██╗ ██║██║  ██║     ║
+║  ██║   ██║██║   ██║██╔══██╗██╔══██║██║╚██╗██║██║  ██║     ║
+║  ╚██████╔╝╚██████╔╝██████╔╝██║  ██║██║ ╚████║██████╔╝     ║
+║   ╚═════╝  ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝      ║
+║                                                          ║
+║   THE REVERSE ENGINEERED GOLAND  //  C# + C++  //  NO JVM ║
+║   ── SAME POWER. MORE FREEDOM. ──                        ║
+║                                                          ║
+╚════════════════════════════════════════════════════════════╝
+```
 ## License
 
 GPL-3.0-or-later + Sovereign Source License v1.0. See `LICENSE`.
